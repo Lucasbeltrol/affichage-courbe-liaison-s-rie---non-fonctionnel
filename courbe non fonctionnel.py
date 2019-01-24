@@ -1,12 +1,3 @@
-#######################################################################################
-#
-# Démo montrant :
-#   * intégration d'une courbe Matplotlib dans une fenêtre PyQt5, créée depuis Designer
-#   * ajout d'un nouveau point à chaque clic
-#   * fénêtre glissante
-#
-#######################################################################################
-
 
 from PyQt5.uic import loadUi
 from PyQt5 import QtWidgets
